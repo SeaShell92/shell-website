@@ -1,0 +1,30 @@
+{
+    "name": "opdavies/sculpin-skeleton",
+    "description": "A skeleton Sculpin site.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oliver Davies",
+            "homepage": "https://www.oliverdavies.uk",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "sculpin/sculpin": "^3.0"
+    },
+    "scripts": {
+        "build": "sculpin generate --clean --no-interaction --env prod",
+        "dev": "sculpin generate --clean --no-interaction",
+        "generate": "sculpin generate --clean --no-interaction",
+        "prod": "composer run-script generate -- --env prod",
+        "watch": [
+            "Composer\\Config::disableProcessTimeout",
+            "composer run-script generate -- --watch --server"
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.1-dev"
+        }
+    }
+}
