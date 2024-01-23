@@ -26,5 +26,10 @@
         "branch-alias": {
             "dev-master": "2.1-dev"
         }
+    },
+    "config": {
+        "allow-plugins": {
+            "sculpin/sculpin-theme-composer-plugin": true
+        }
     }
 }
