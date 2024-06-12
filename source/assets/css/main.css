@@ -1,0 +1,18 @@
+body {
+    background-color: darkslateblue;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: xx-large;
+    color: darkturquoise;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+p {
+    color: coral;
+    font-style: italic;
+}
