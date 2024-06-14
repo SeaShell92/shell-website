@@ -1,18 +1,18 @@
+html {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
-    background-color: darkslateblue;
+    margin-left: 20px;
 }
 
 h1 {
     font-weight: 700;
     font-size: xx-large;
-    color: darkturquoise;
+    color: darkgreen;
 }
 
 h2 {
-    color: aquamarine;
-}
-
-p {
-    color: coral;
-    font-style: italic;
+    color: blueviolet;
 }
