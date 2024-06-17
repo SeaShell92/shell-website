@@ -1,0 +1,52 @@
+#!/usr/bin/env bash
+
+set -eu
+
+PATH=$PATH:./node_modules/.bin
+NODE_ENV="${NODE_ENV:-development}"
+APP_ENV="${APP_ENV:-dev}"
+
+
+# Display a list of all available commands.
+function help {
+  printf "%s <task> [args]\n\nTasks:\n" "${0}"
+
+  compgen -A function | grep -v "^_" | cat -n
+
+  printf "\nExtended help:\n  Each task has comments for general usage\n"
+}
+
+function npm:build:css {
+  local args=()
+
+  if [[ "${NODE_ENV}" == "production" ]]; then
+    args=(--minify)
+  else
+    args=(--watch)
+  fi
+
+  mkdir -p ./source/build
+  npx tailwindcss -o ./source/build/tailwind.css "${args[@]}"
+}
+
+function sculpin:build {
+  local args=()
+
+  if [[ "${APP_ENV}" == "production" ]]; then
+    args=(--env prod)
+  else
+    args=(--watch --server)
+  fi
+
+  vendor/bin/sculpin generate "${args[@]}"
+}
+
+# Start the project.
+function start {
+  sculpin:build \
+    & npm:build:css \
+    & wait
+}
+
+TIMEFORMAT=$'\nTask completed in %3lR'
+time "${@:-help}"

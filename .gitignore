@@ -1,2 +1,5 @@
 /output_*/
 /vendor/
+/node_modules/
+/source/build/
+/.direnv/
