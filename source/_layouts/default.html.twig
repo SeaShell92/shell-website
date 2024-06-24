@@ -1,5 +1,9 @@
 {% extends 'app' %}
 
 {% block body %}
-    {% block content %}{% endblock %}
+  <div class="container">
+    <div class="prose prose-a:text-black prose-a:underline">
+      {% block content %}{% endblock %}
+    </div>
+  </div>
 {% endblock %}

@@ -11,4 +11,3 @@ This is a page about current work
 3. Fractal
 4. etc
 
-&copy; 2024 Shelley Lay

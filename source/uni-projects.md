@@ -24,4 +24,3 @@ My final year dissertation had a focus on Geographic Information Systems.  I cre
 
 [Traffic Accident Mapping](https://github.com/SeaShell92/IndividualProject2023)
 
-#### &copy; 2024 Shelley Lay

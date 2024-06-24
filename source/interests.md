@@ -17,5 +17,3 @@ photos
 ## Watching Anime
 
 info dump.
-
-&copy; 2024 Shelley Lay
