@@ -1,8 +1,20 @@
 {% extends 'app' %}
 
 {% block body %}
+{# temporary style block until I can get the styles to work through tailwind classes instead #}
+<style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #8541c8;
+  color: #fff;
+  text-align: center;
+}
+</style>
   <div class="container">
-    <div class="prose prose-a:text-black prose-a:underline">
+    <div class="prose prose-a:text-black prose-a:underline prose-li:marker:text-purple-blue">
       {% block content %}{% endblock %}
     </div>
   </div>
