@@ -5,7 +5,7 @@ layout: default
 # Coming Soon
 
 One day a whole site will be in place of this single hub page.
-Navigation bar!
+I need to implement a whole navigation bar!
 
 ## Pages
 
