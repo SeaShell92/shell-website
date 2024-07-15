@@ -1,2 +1,21 @@
 name: 'S.Lay Sculpin Site'
 locale: en
+
+menu_links:
+    -
+        title: Home
+        url: /
+    -
+        title: About Me
+        url: /about-me
+    -
+        title: About Work
+        url: /about-work
+    -
+        title: Hobbies and Interests
+        url: /interests
+    -
+        title: University Projects
+        url: /uni-projects
+        
+        

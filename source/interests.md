@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Hobbies and Interests
 ---
 
 # Hobbies and Interests

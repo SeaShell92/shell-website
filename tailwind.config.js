@@ -11,18 +11,13 @@ module.exports = {
       'purple-blue': '#8541c8',  
       'light-blue': '#a2a2f6',
     },
-    container: {
-      center: true,
-      padding: {
-        DEFAULT: "16px",
-        md: "24px",
-      },
-    },
+
     fontFamily: {
       sans: ['Helvetica', 'sans-serif'],
       serif: ['Georgia', 'serif'],
     },
   },
+
   plugins: [
     require('@tailwindcss/typography'),
   ],

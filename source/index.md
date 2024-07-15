@@ -4,12 +4,8 @@ layout: default
 
 # Coming Soon
 
-One day a whole site will be in place of this single hub page.
-I need to implement a whole navigation bar!
+...please hold.
 
 ## Pages
 
-* [About Me](/about-me)
-* [About Work](/about-work)
-* [Interests](/interests)
-* [Uni Projects](/uni-projects)
+Use the navigation bar above!

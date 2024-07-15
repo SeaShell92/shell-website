@@ -9,7 +9,8 @@
         <link rel="icon" type="image/x-icon" href="/favicon.ico">
     </head>
     <body class="bg-light-blue">
+        {% include "main-menu.html.twig" %}
         {% block body %}{% endblock %}
     </body>
-    <footer class="footer"> &copy; 2024 Shelley Lay </footer>
+    <footer class="fixed bottom-0 w-full bg-dark-blue text-white text-center pt-4 pb-2"> &copy; 2024 Shelley Lay </footer>
 </html>
