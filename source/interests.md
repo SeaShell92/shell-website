@@ -23,4 +23,4 @@ Photos
 
 My first ever anime I enjoyed watching was Yu-Gi-Oh! Which was shown as a cartoon during my childhood.  In 2020, I discovered the anime channel on Amazon Prime Video and from then on I haven't stopped watching all kinds of anime. I currently pay a subscription to Crunchyroll to keep up with my favourite shows.
 
-If you're brave enough, you can view a list I made of every anime I have watched on the MyAnimeList website [here](https://myanimelist.net/animelist/solar0wolf).
+If you're brave enough, you can view a list I made of every anime I have watched on the MyAnimeList website [here](https://myanimelist.net/animelist/Solar0Wolf?status=7&order=4&order2=0).

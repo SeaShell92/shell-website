@@ -18,4 +18,6 @@ menu_links:
         title: University Projects
         url: /uni-projects
         
-        
+proseClasses: 
+    prose prose-p:text-base prose-p:text-dark-blue prose-headings:font-medium prose-h2:text-2xl/snug prose-a:font-medium prose-a:underline prose-li:marker:text-purple-blue hover:prose-a:text-purple-blue
+

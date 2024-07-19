@@ -4,8 +4,7 @@
   <div class="max-w-2xl mx-auto p-6 mb-10">
     {# TODO: move page title headings out of prose content and style them seperately #}
     <h1 class="hidden">{{ page.title }}</h1>
-        {# TODO: add more prose classes for headings and text elements #}
-      <div class="prose prose-a:text-black prose-a:underline prose-li:marker:text-purple-blue">
+      <div class="{{ site.proseClasses }}">
         {% block content %}{% endblock %}
       </div>
   </div>
