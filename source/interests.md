@@ -3,8 +3,6 @@ layout: default
 title: Hobbies and Interests
 ---
 
-# Hobbies and Interests
-
 There's more to me than software development!  Here are a few of my main hobbies and interests.
 
 ## Pin badge collecting

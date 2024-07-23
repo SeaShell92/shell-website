@@ -1,18 +1,17 @@
 ---
 layout: default
+title: BSc Computing Projects
 ---
-
-# University Projects
 
 Please visit my github repositories to view the code I created during my time studying BSc Computing at the University of South Wales.  This practical work gave me the knowledge I use to write code and solve problems in my job today.
 
 ## Year 3 (final year) Project
 
-My final year dissertation had a focus on Geographic Information Systems.  I created a website to demonstrate my knowledge and my ability visually represent large amounts of data using Leaflet and JavaScript.  
+My final year dissertation had a focus on Geographic Information Systems.  I created a website to demonstrate my knowledge and my ability visually represent large amounts of data on a map using Leaflet and JavaScript.  
 
 The website I made for this project is available to view [here](https://ces-web2.southwales.ac.uk/students/30021038/IS3D660/home.html) but please note, it is hosted by the University and may not always be available.
 
-[Traffic Accident Mapping Code](https://github.com/SeaShell92/IndividualProject2023). Note: without the database, hosted by the university, the code alone may not function as intended.
+[Traffic Accident Mapping Code](https://github.com/SeaShell92/IndividualProject2023). Note: Although you are free to download my code, without the information in the database, the code alone may not function as intended.
 
 ## Year 2 Project
 
