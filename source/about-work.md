@@ -5,10 +5,10 @@ title: Software Developer Graduate Work
 
 My Software Developer Graduate role at Transport for Wales can be split into several categories:
 
-* Design System Refresh project
+* [Design System Refresh project](/design-system)
 * [Graduate Training & Achievements](/grad-training)
-* Fractal Component drafting
-* Personal Development
+* [Fractal Component drafting](/fractal-dev)
+* [Personal Development](/personal-dev)
 
 Please use the links above to find out more about each of these categories.
 

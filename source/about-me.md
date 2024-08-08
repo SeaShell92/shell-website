@@ -15,3 +15,6 @@ I have a LinkedIn page you can visit <a href="https://www.linkedin.com/in/shelle
 
 My father also had an administrative job so I think my love of paperwork comes from him but my affinity with computers was also clear from a young age, it just took a while for me to acknowledge it myself.
 
+## Life outside of work
+
+If you want to know more about my hobbies, there's a page for that [here](/interests). If you'd like to know about my personal development, there's a page for that [here](/personal-dev).  My party days are behind me, if I do go out on weekends it's mainly to go shopping and then come home and chill out.  I also like to attend anime conventions and craft market events when I can.

@@ -1,11 +1,10 @@
 ---
 layout: default
+title: Welcome
 ---
 
-# Coming Soon
+Hi! I'm Shelley Lay, a female Software Developer Graduate working at Transport for Wales.
 
-...please hold.
+I built this website as a portfolio of my work as part of the 2023 Graduate cohort at Transport for Wales.  The graduate scheme covers a period of two years and I wrote this website at the end of my first year so come back for updates!
 
-## Pages
-
-Use the navigation bar above!
+Please take a look around using the links above.
