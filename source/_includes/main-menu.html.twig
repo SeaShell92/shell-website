@@ -1,10 +1,11 @@
 <nav class="sticky top-0">
-  <ul class="bg-dark-blue m-0 p-0 overflow-hidden">
+  <ul class="flex flex-col justify-center bg-dark-blue overflow-hidden md:flex-row">
+    {% include "logo.html.twig" %}
     {% for link in site.menu_links %}
       {% set isHome = link.url == "/" and page.url == "/." %}
       {% set isActive = link.url == page.url or isHome %}
-      <li class="float-left">
-        <a class="block text-center text-white py-4 px-5 {{ isActive ? 'bg-purple underline': 'no-underline' }} hover:underline hover:bg-purple" href="{{ link.url }}">
+      <li class="my-auto">
+        <a class="text-center text-white text-xl py-8 px-5 {{ isActive ? 'bg-purple underline': 'no-underline' }} hover:underline hover:bg-purple" href="{{ link.url }}">
         {{ link.title }}
         </a>
       </li>
