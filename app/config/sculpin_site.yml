@@ -17,7 +17,11 @@ menu_links:
     -
         title: University Projects
         url: /uni-projects
-        
+
+logoLink:
+    title: Home
+    url: /
+
 proseClasses: 
     prose prose-pink prose-p:text-base prose-p:text-black prose-headings:font-medium prose-h2:text-2xl prose-a:font-medium prose-a:underline prose-li:marker:text-dark-blue hover:prose-a:text-purple
 
