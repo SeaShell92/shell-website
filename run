@@ -7,6 +7,16 @@ NODE_ENV="${NODE_ENV:-development}"
 APP_ENV="${APP_ENV:-dev}"
 
 
+function clean {
+  rm -rf -v output_* source/build
+}
+
+function deploy {
+  clean
+  NODE_ENV=production npm:build:css
+  APP_ENV=prod sculpin:build 
+}
+
 # Display a list of all available commands.
 function help {
   printf "%s <task> [args]\n\nTasks:\n" "${0}"
@@ -32,7 +42,7 @@ function npm:build:css {
 function sculpin:build {
   local args=()
 
-  if [[ "${APP_ENV}" == "production" ]]; then
+  if [[ "${APP_ENV}" == "prod" ]]; then
     args=(--env prod)
   else
     args=(--watch --server)
