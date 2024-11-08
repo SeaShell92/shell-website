@@ -7,7 +7,9 @@ title: All About Me
 
 Office jobs were my life right up until I decided a change of career was required in the middle of 2019.  I did an intense one year Access to Higher Education course at college, before 3 years studying BSc Computing at the University of South Wales.  In my 3rd and final year, I attended a careers fair which lead me to the graduate job with Transport for Wales I have today.  I did my first year of university in lockdown of 2020.  My only work experience comes from the "pre-covid era" as I call it and that was a very different world to the one we live in now.  Thankfully my current job has given me plenty of time to adjust and the staff at Transport for Wales have been very supportive.
 
-I have been a working professional most of my adult life.  I obtained my first NVQ way back in 2010 and I used that course to gain work experience as an administrative assistant ever since.  I've also gained a few more NVQs along the way and one Level 2 VRQ in Beauty Specialist Techniques, just because I wanted to brush up on my people skills and try my hand at something a bit different.  It's a vocational qualification but I decided not to pursue that career option after all.  The skills still come in handy though, especially when it comes to painting my nails and doing my make-up!
+I have been a working professional most of my adult life.  I obtained my first NVQ way back in 2010 and I used that course to gain work experience as an administrative assistant ever since.  I've also gained a few more NVQs along the way and one Level 2 VRQ in Beauty Specialist Techniques, <a href="https://www.cymoedd.ac.uk/course-detail/level-2--in-beauty-therapy/?course_id=7BF203AA" target="_blank">which you can read about here</a> (opens in new tab), just because I wanted to brush up on my people skills and try my hand at something a bit different.  
+
+It's a vocational qualification but I decided not to pursue that career option after all.  The skills still come in handy though, especially when it comes to painting my nails and doing my make-up!
 
 ## Work History
 
