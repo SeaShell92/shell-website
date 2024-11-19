@@ -26,6 +26,6 @@ The shadowing went well, I satisfied my own curiosity and got a closer look at j
 
 This was a very valuable opportunity for both me and my team and I am very glad I decided to ask the content team manager if it was possible.  I am now using that experience to get out into other teams and see how other things are done inside Transport for Wales.
 
-I'm looking forward to shadowing the GIS Analyst at Transport for Wales because I did my final year project on a GIS topic, mapping out car accidents in Wales. I am interested to see how GIS is used in a real world application. 
+I'm looking forward to shadowing the GIS Analyst at Transport for Wales because I did my final year project on a GIS topic, mapping out car accidents in Wales. I am interested to see how GIS is used in a real world application.
 
 After shadowing a few departments and learning a few new things, I hope I can become a mentor or provide training and support in some capacity so that I can share knowledge as well as gaining it!
