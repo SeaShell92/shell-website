@@ -10,7 +10,7 @@ My Software Developer Graduate role at Transport for Wales can be split into sev
 * [Fractal Component drafting](/fractal-dev)
 * [Personal Development](/personal-dev)
 
-Please use the links above to find out more about each of these categories.
+Please use the links above to find out more about each of these categories or read below to find out more about my role in general.
 
 ## Software Development Team
 
@@ -18,9 +18,25 @@ This Graduate position is quite unique from the other graduates in that I don't 
 
 We are a small team of four who take care of the main Transport for Wales webiste, <a href="https://tfw.wales/" target="_blank">tfw.wales</a> (opens in new tab), including the Welsh language site <a href="https://trc.cymru/" target="_blank">trc.cymru</a> (opens in new tab).
 
+We mainly all work remotely, but every once in a while the stars align and we all meet up in the office for a day of collaboration and catching-up with colleagues!  There's also usually some kind of important meeting or activity to be done because we are very efficient with our time.
+
+<figure>
+<img class="max-w-sm mx-auto md:max-w-full" src="/assets/images/Team-Collab-Newport.jpg" alt="Shelley guesturing wildly at an interactive whiteboard">
+<figcaption class="text-center">I'm a visual person so as my team discussed things I approached the interactive whiteboard, which looks like a chalk board, and started writing things down to help keep discussion on track.</figcaption>
+</figure>
+
+This was actually in the old TfW office space in Newport which is no longer available.  But it was great for our team while it lasted!  Yes, I have a very alternatve style to the usual office attire, but that's the joy of being a Software Developer in Transport for Wales! I can wear whatever makes me comfortable, as long as it isn't inappropriate of course.
+
+## Graduate Scheme Opportunities
+
 Although I don't have official rotations, I have worked closely with the Content Team and the User Experience Designer to help update the bits of the website you can see, as well as helping my own team ensure things keep running smoothly behind the curtain.
 
 In August 2024, just before I completed my first year as a Software Development Graduate, I asked the Content Team manager if I could shadow the Content Publisher for a week, as a sort of informal mini rotation.
+
+<figure>
+<img class="max-w-sm mx-auto md:max-w-full" src="/assets/images/reaching-out.png" alt="A screenshot of an email">
+<figcaption class="text-center">The email I sent to the Content Team manager, copying in my line manager and the Content Publisher I was hoping to shadow.</figcaption>
+</figure>
 
 As our teams work closely together, I was also happy to use this opportunity to report any pain points back from the content team to the web developer team. The content team, and the designer, are regularly in contact with the web team but because both teams work very differently there are often small missed opportunities and sometimes miscommunication between teams.
 

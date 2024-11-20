@@ -15,9 +15,21 @@ During university I volunteered with Technocamps to teach STEM workshops in scho
 
 More recently, with Transport for Wales, I volunteered at the November Careers Fair hosted at the University of South Wales Treforest campus.  This was actually the university campus I attended during my studies so it was neat to come back as an alumni but also as a full-time employee for a business!
 
+<figure>
+<img class="max-w-sm mx-auto md:max-w-full" src="assets/images/meAtTable1.jpg" alt="Shelley sat at the Transport for Wales booth.">
+<figcaption class="text-center">My friendly face ready to welcome students to our table.</figcaption>
+</figure>
+
 Funnily enough, I attended the USW Careers Fair in November 2022, in my final year of study, looking for job opportunities after I graduate.  I just so happened to walk past the TfW table thinking "Oh neat, I take their trains to University, it's cool that they're here for the engineers" but then one of the staff members at the table was free so I quickly asked "hello, got any IT jobs going? Got a website that needs maintaining?" and to my surprise the staff member replied "Actually, we've got a brand new Software Development graduate role happening this year" and I was so excited!!  Never thought I'd find my dream job straight out of university, I thought I'd have to find something else and work my way back around to website development later.
 
 So I'm here today thanks to being brave and attending that careers fair and when I heard the call for volunteers in my graduate cohort to come and support the HR department in recruitment, I jumped at the chance!  I agreed in advance but closer to the day, I almost couldn't make it but then I did manage to go and I am so so happy I had this opportunity.
+
+<figure>
+<img class="max-w-sm mx-auto md:max-w-full" src="assets/images/meAtUSWFair.jpg" alt="Shelley smiling at the camera next to a sign for the USW Careers Fair">
+<figcaption class="text-center">On my way to the Careers Fair, thanks to these helpful signs on Campus, I stopped to take a selfie with my old uni building in the background.</figcaption>
+</figure>
+
+Although it seems silly, I was super excited to be back and my body insinctively carried me back to my old uni building, but luckily the careers fair building was nearby!
 
 ## Promoting
 
