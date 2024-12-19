@@ -11,6 +11,6 @@
     <body class="bg-light-blue">
         {% include "main-menu.html.twig" %}
         {% block body %}{% endblock %}
-    <footer class="fixed bottom-0 w-full bg-dark-blue text-white text-center pt-4 pb-2"> &copy; 2024 Shelley Lay </footer>
+    <footer class="fixed bottom-0 w-full bg-dark-blue text-white text-center pt-4 pb-2"> &copy; {{ 'now' | date('Y') }} Shelley Lay </footer>
     </body>
 </html>
