@@ -9,7 +9,7 @@ Please visit my github repositories using the links below to view the code I cre
 
 My final year dissertation had a focus on Geographic Information Systems.  I created a website to demonstrate my knowledge and my ability visually represent large amounts of data on a map using Leaflet and JavaScript.  
 
-The website I made for this project is available to view <a href="https://shelley-web-map.netlify.app/" target="_blank">here</a> (opens in new tab).  The first 3 toggles show the information using locally stored data in geoJSON files.  The 4th toggle, titled "Accidents per km" is no longer functional because I accessed and displayed the data using a Web Map Service (WMS) request to the university's GeoServer, which I no longer have a valid connection to.
+The website I made for this project is available to view <a href="https://shelley-web-map.netlify.app/" target="_blank">here</a> (opens in new tab).  On the Project Map page is the Leaflet map I used for my project.  The first 3 toggles in the legend on the map show the information using locally stored data in geoJSON files.  The 4th toggle, titled "Accidents per km" is no longer functional because I accessed and displayed the data using a Web Map Service (WMS) request to the university's GeoServer, which I no longer have a valid connection to.  If you look at the code via the link below, you can read how the request was made but most of the work was done on the GeoServer and the university's student database rather than in the local files.
 
 <a href="https://github.com/SeaShell92/IndividualProject2023" target="_blank">Traffic Accident Mapping Code</a> Note: Although you are free to download my code, without the information in the database, the code alone may not function as intended.
 
