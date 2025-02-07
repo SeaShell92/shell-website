@@ -16,7 +16,7 @@ During university I volunteered with Technocamps to teach STEM workshops in scho
 More recently, with Transport for Wales, I volunteered at the November Careers Fair hosted at the University of South Wales Treforest campus.  This was actually the university campus I attended during my studies so it was neat to come back as an alumni but also as a full-time employee for a business!
 
 <figure>
-<img class="max-w-sm mx-auto md:max-w-full" src="/assets/images/meAtTable1.jpg" alt="Shelley sat at the Transport for Wales booth.">
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/meAtTable1.jpg" alt="Shelley sat at the Transport for Wales booth.">
 <figcaption class="text-center">My friendly face ready to welcome students to our table.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Funnily enough, I attended the USW Careers Fair in November 2022, in my final ye
 So I'm here today thanks to being brave and attending that careers fair and when I heard the call for volunteers in my graduate cohort to come and support the HR department in recruitment, I jumped at the chance!  I agreed in advance but closer to the day, I almost couldn't make it but then I did manage to go and I am so so happy I had this opportunity.
 
 <figure>
-<img class="max-w-sm mx-auto md:max-w-full" src="/assets/images/meAtUSWFair.jpg" alt="Shelley smiling at the camera next to a sign for the USW Careers Fair">
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/meAtUSWFair.jpg" alt="Shelley smiling at the camera next to a sign for the USW Careers Fair">
 <figcaption class="text-center">On my way to the Careers Fair, thanks to these helpful signs on Campus, I stopped to take a selfie with my old uni building in the background.</figcaption>
 </figure>
 

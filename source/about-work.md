@@ -21,7 +21,7 @@ We are a small team of four who take care of the main Transport for Wales webist
 We mainly all work remotely, but every once in a while the stars align and we all meet up in the office for a day of collaboration and catching-up with colleagues!  There's also usually some kind of important meeting or activity to be done because we are very efficient with our time.
 
 <figure>
-<img class="max-w-sm mx-auto md:max-w-full" src="/assets/images/Team-Collab-Newport.jpg" alt="Shelley guesturing wildly at an interactive whiteboard">
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/Team-Collab-Newport.jpg" alt="Shelley guesturing wildly at an interactive whiteboard">
 <figcaption class="text-center">I'm a visual person so as my team discussed things I approached the interactive whiteboard, which looks like a chalk board, and started writing things down to help keep discussion on track.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Although I don't have official rotations, I have worked closely with the Content
 In August 2024, just before I completed my first year as a Software Development Graduate, I asked the Content Team manager if I could shadow the Content Publisher for a week, as a sort of informal mini rotation.
 
 <figure>
-<img class="max-w-sm mx-auto md:max-w-full" src="/assets/images/reaching-out.png" alt="A screenshot of an email">
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/reaching-out.png" alt="A screenshot of an email">
 <figcaption class="text-center">The email I sent to the Content Team manager, copying in my line manager and the Content Publisher I was hoping to shadow.</figcaption>
 </figure>
 

@@ -6,14 +6,14 @@ title: Design System Refresh
 This is the project I've spent most of my time on as a software developer graduate.  The design team decided the Transport for Wales (TfW) website needed a refresh and the software developmet team decided to help make the new designs come to life.
 
 <figure>
-<img src="/assets/images/pt-1-design-system.jpg" alt="a screenshot of the design system" />
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/pt-1-design-system.jpg" alt="a screenshot of the design system" />
 <figcaption class="text-center">From Figma designs...</figcaption>
 </figure>
 
 The design team would look at existing components and use Figma to see how they could be modernised and refreshed with new usage of colour and iconography.  This was mainly done through the use of hand-crafting components and changing shape/size/colour with the touch of a button.
 
 <figure>
-<img src="/assets/images/pt-2-design-system.jpg" alt="a screenshot of the web design system" />
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/pt-2-design-system.jpg" alt="a screenshot of the web design system" />
 <figcaption class="text-center">...to fully functional web components.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Once the designs were tested in fractal, they were then implemented on the websi
 In a perfect world we'd just flip a switch and reveal a new website design in one go, but actually we decided it would be easier to update the website in a component by component basis.  We created tickets to keep track of the work to be done on each component, a few are shown below.
 
 <figure>
-<img src="/assets/images/dsr-tickets-eg.png" alt="a screenshot of jira tickets">
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/dsr-tickets-eg.png" alt="a screenshot of jira tickets">
 <figcaption class="text-center"> This was just part of phase 1, it's still an ongoing project. </figcaption>
 </figure>
 

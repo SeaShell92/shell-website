@@ -8,14 +8,14 @@ The tool I use to help draft designs as web components for my main project, the 
 My team had already been using Fractal before I joined and I had never heard of it before.  It's basically a staging area to draft components to be used on the Transport for Wales website.
 
 <figure>
-<img src="/assets/images/fractal-style-2024.png" alt="a screenshot of a Fractal component">
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/fractal-style-2024.png" alt="a screenshot of a Fractal component">
 <figcaption class="text-center">Here's an example of one component in Fractal</figcaption>
 </figure>
 
 My team and I all work in Fractal together, the list at the side of the page in the above image is actually a list of components.  As well as components I have also written some documentation to help share information to anyone who visits our Fractal component library.
 
 <figure>
-<img src="/assets/images/Picture-doc.png" alt="a screenshot of a Fractal documentation about typography">
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/Picture-doc.png" alt="a screenshot of a Fractal documentation about typography">
 <figcaption class="text-center">I wrote this documentation to capture the type of font to use in our components.</figcaption>
 </figure>
 
