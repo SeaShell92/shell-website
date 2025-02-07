@@ -17,3 +17,4 @@ I built this website as a personal project along side my work, learning and deve
 * Project started: June 2024
 * First published: 14 August 2024
 * First major content update: November 2024
+* Most recent update: Feb 2025

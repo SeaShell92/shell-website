@@ -7,13 +7,29 @@ Although I've learned a lot of useful skills on the job, I have also been develo
 
 Working as part of a small team of four has given me the opportunity to speak and be heard and for my ideas to accepted and integrated into the work dynamic.  At first I was shy because I was new and I didn't want to be too pushy or put a foot wrong, but over the last 6 months at least, I've really gained some confidence in just saying what's on my mind and giving my opinion even if it is different to the group.
 
-Being a female software developer is actually rare in the industry, so I already bring a fresh point of view by being different to my 3 male colleagues.  
+Being a female software developer is actually rare in the industry, so I already bring a fresh point of view by being different to my 3 male colleagues.
+
+As well as having a rare job, the first Software Development Graduate at Transport for Wales, I've volunteered my time and promoted many different things, pushing past my social phobia and crippling anxiety to put my unique perspective out there into the world!
 
 ## Volunteering
 
-During university I volunteered with Technocamps to teach STEM workshops in schools, including teaching young girls that it is not just a "boy thing" to like Science, Technology, Engineering or Maths.  You can find out more about Technocamps <a href="https://www.technocamps.com/en/about-technocamps/" target="_blank">here</a> (opens in new tab) but my experience really helped me build confidence in my ability to learn something myself and teach it to others.  It was also really fun! One workshop we used Lego, one workshop we just used laptops and a little program called Scratch to make a little game.  I was amazed that you could teach such a complex topic like coding to quite young kids! But at the end of the day it's just creative problem solving wrapped up in a technology bow.
+During my time at university, I volunteered with Technocamps to teach STEM workshops in schools, including teaching young girls that it is not just a "boy thing" to like Science, Technology, Engineering or Maths.  You can find out more about Technocamps <a href="https://www.technocamps.com/en/about-technocamps/" target="_blank">here</a> (opens in new tab) but my experience really helped me build confidence in my ability to learn something myself and teach it to others.  It was also really fun! One workshop we used Lego, one workshop we just used laptops and a little program called Scratch to make a little game.  I was amazed that you could teach such a complex topic like coding to quite young kids! But at the end of the day it's just creative problem solving wrapped up in a technology bow.
 
-More recently, with Transport for Wales, I volunteered at the November Careers Fair hosted at the University of South Wales Treforest campus.  This was actually the university campus I attended during my studies so it was neat to come back as an alumni but also as a full-time employee for a business!
+Through Technocamps, I was encouraged to become an official STEM ambassasdor.  After my placement was over, I renewed my STEM ambassador card in order to be able to continue teaching STEM workshops and events potentially by myself or as part of a bigger group.  I'm still not quite confident enough to really put myself out there, but I am going to slowly build confidence attending smaller events because I do enjoy volunteering my time to help students.  I am proud to be a female STEM ambassador and help others learn more about the topic.  More about what a STEM ambassador is can be found on the official website <a href="https://www.stem.org.uk/stem-ambassadors" target="_blank">here</a> (opens in new tab).
+
+Through Transport for Wales, I volunteered my time at a virtual STEM Women careers event to encourage more female uni students to apply for our 2025 graduate cohort positions because TfW isn't just about trains (though if you want to be a female Engineer I am all for that!!).  More information about STEM women events can be found on their website <a href="https://www.stemwomen.com/events" target="_blank">here</a> (opens in new tab).
+
+<figure>
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/women-in-stem-volunteer-2024-11-15 two.png" alt="a screenshot of the live chat function for the event.">
+<figcaption class="text-center">I was one of a few people attending the booth, I introduced myself and gave some information from a graduate perspective, which lead to a register of interest for a future graduate cohort!</figcaption>
+</figure>
+
+<figure>
+<img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/women-in-stem-volunteer-invite.png" alt="a screenshot of my teams chat where I was invited to the event.">
+<figcaption class="text-center">I was invited to chat at the virtual event because of how successful I was at speaking to people/potential candidates at the in-person careers fair (more details below).</figcaption>
+</figure>
+
+With Transport for Wales, I volunteered at the November Careers Fair in person event hosted at the University of South Wales Treforest campus.  This was actually the university campus I attended during my studies so it was neat to come back as an alumni but also as a full-time employee for a business!
 
 <figure>
 <img class="max-w-xs mx-auto md:max-w-full" src="/assets/images/meAtTable1.jpg" alt="Shelley sat at the Transport for Wales booth.">
