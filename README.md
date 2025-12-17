@@ -1,6 +1,6 @@
 # Graduate Portfolio Website
 
-** Repository archived as site is static (so will remain live) and I am taking a break from development **
+***NOTICE: Repository archived as site is static (so will remain live) and I am taking a break from development***
 
 Starting from a minimal, generic skeleton project for the [Sculpin][1] static site generator. This website will become a portfolio to hold the work done during my time as a Software Developer Graduate with Transport for Wales.
 
